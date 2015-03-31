@@ -10,6 +10,10 @@ syntax enable
 set background=dark
 colorscheme solarized
 
+" Options for jshint2
+" let jshint2_read = 1
+let jshint2_save = 1
+
 " Turn on line numbers
 set number
 
