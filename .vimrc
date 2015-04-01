@@ -14,6 +14,9 @@ colorscheme solarized
 " let jshint2_read = 1
 let jshint2_save = 1
 
+" Allow for a shared clipboard
+set clipboard=unnamed
+
 " Turn on line numbers
 set number
 
