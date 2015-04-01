@@ -36,4 +36,8 @@ set visualbell
 " Shortcut to open NERDTree plugin
 map <C-n> :NERDTreeToggle<CR>
 
+" Show hidden files in NerdTree
+let NERDTreeShowHidden=1
+
+" Remap emmet trigger key
 let g:user_emmet_leader_key='hh'
