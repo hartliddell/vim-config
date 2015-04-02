@@ -1,7 +1,7 @@
 # vim-config
 My personal vim config.
 
-## General Vim commands
+#### General Vim commands
 
 * Undo = u
 * Redo = [control-r]
