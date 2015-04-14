@@ -41,3 +41,9 @@ let NERDTreeShowHidden=1
 
 " Remap emmet trigger key
 let g:user_emmet_leader_key='hh'
+
+" Enable Vim Airline
+let g:airline#extensions#tabline#enabled = 1
+
+" Put swap files in fixed directory 
+set dir=~/.vim/swap
