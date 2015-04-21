@@ -40,7 +40,7 @@ map <C-n> :NERDTreeToggle<CR>
 let NERDTreeShowHidden=1
 
 " Remap emmet trigger key
-let g:user_emmet_leader_key='hh'
+let g:user_emmet_leader_key='H'
 
 " Enable Vim Airline
 let g:airline#extensions#tabline#enabled = 1
